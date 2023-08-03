@@ -1,4 +1,5 @@
-#  ALGORITMO PCN 
+#    PCN Algorithm
+
 #
 # - Use matrices containing borders
 # - Fix the formula for N = n^2
