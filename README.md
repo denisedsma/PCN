@@ -1,6 +1,8 @@
 # PCN
-pcn_algorithm.R : estimates the pcn from a sample (lattice).\\
-simulations.R : generate samples from a given PCN.\\
+pcn_algorithm.R : estimates the pcn from a sample (lattice).
+
+simulations.R : generate samples from a given PCN.
+
 scriptcomaplicacaodados.zip: contains files used in the application  on fire data from Pantanal: biome_border.shp is used to determine the wetland border
 MCD64monthly.A2020245.Win06.006.burndate.tif has the matrix with data on fires (it was added to dropbox due to its size).
 
